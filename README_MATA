@@ -1,0 +1,11 @@
+Technical Requirement
+
+Django <==> Zabbix
+
+Software yang kita gunakan:
+Django
+Postgresql
+Twitter Bootstrap 3
+jQuery 2.2
+Memcached (kalau perlu caching pake ini)
+Fabric (untuk deployment kita pake ini)
