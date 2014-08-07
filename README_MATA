@@ -3,7 +3,7 @@ Technical Requirement
 Django <==> Zabbix
 
 Software yang kita gunakan:
-Django
+Django 1.5.8
 Postgresql
 Twitter Bootstrap 3
 jQuery 2.2
