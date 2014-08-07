@@ -14,3 +14,14 @@ Web server : Ngingx
 Application server : gunicorn
 Load balancer : HAProxy ? nginx? 
 
+Test Server:
+——————————————————
+ip : 61.8.67.147 
+user : axes
+pass : axes2014
+
+Django Testing:
+—————————————————— 
+http://61.8.67.147
+user: permatarizki
+pass: permatarizki
