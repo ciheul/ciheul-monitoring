@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+￼￼
+<root>
+	<TRXTYPE>balanceinforesp</TRXTYPE>
+	<ERRORCODE>00</ERRORCODE>
+	<BILLERCODE>1234</BILLERCODE>
+	<AMOUNT>10000</AMOUNT>
+	<MESSAGE count="1">
+		<DISPLAY1>Jumlah Balance Rp. 10000</DISPLAY1>
+	</MESSAGE>
+</root>
+￼

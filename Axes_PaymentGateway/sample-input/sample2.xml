@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<inventory>
+	<item>
+		<id>758</id>
+		<name>Rusty, jagged nails for nailgun</name>
+		<supplier>NailBarn,Inc.</supplier>
+		<cost>2.99</cost>
+		<quantity>10000</quantity>
+	</item>
+	<item>
+		<id>6273</id>
+		<name>Power pack for death ray</name>
+		<supplier>QuakePower.domain.com</supplier>
+		<cost>9.99</cost>
+		<quantity>10</quantity>
+	</item>
+</inventory>

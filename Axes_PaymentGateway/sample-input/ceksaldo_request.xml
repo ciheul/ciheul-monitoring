@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<UID>testing</UID>
+	<PWD>testing123</PWD>
+	<TRXTYPE>balanceinfo</TRXTYPE>
+	<BILLERCODE>1234</BILLERCODE>
+</root>

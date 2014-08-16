@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<UID>oji</UID>
+	<PWD>oji123</PWD>
+	<TRXTYPE>inqpostpaid</TRXTYPE>
+	<BILLERCODE>000</BILLERCODE>
+	<UNIQUEID>53807123123</UNIQUEID>
+	<PRODUCTCODE>2112</PRODUCTCODE>
+	<TID></TID>
+	<AMOUNT></AMOUNT>
+</root>
